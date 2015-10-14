@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-8273bf3c18c2526d2e0bd787f4b46a19025eccca.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-e61ae0774b18dfc75b3eab5632a4e41d41d864f9.jar" />
+    </item>
+    <item
+        jar="/home/gts/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/gson-2.3.1-41dffadf2a7113809c01b9e3c21dfd886f7265a1.jar" />
+    </item>
+    <item
+        jar="/home/gts/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-55e4fc4aa2dc275896331895c4bea113e5905f00.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-0dd8c0355be2ac0ba0f49fba9907b9b994af401a.jar" />
+    </item>
+    <item
+        jar="/home/gts/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/library-2.4.0-55e95d5b82bec8d7ebe09385fbc1d0b56a5001bb.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-6b621785ae48a4cbcb988b72cef616471075a294.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-49a26289173463f6ce298f629806b7d0d058eee1.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-f430a87dce3d4f594ff1769614f6ae366f8cd1a2.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-5c272a5ef9fc2f15fc3dbd8f37ff87701c99d319.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-650ef62f6d6cd0e33a8d450116f5e8eb7cc1def3.jar" />
+    </item>
+    <item
+        jar="/home/gts/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.0.3/2b2ec1a0bd113f0ff48151da83d2209ef64ce907/parceler-api-1.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b2ec1a0bd113f0ff48151da83d2209ef64ce907">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/parceler-api-1.0.3-24b0957b0d72bafb6654fabbaa7b4e66cdf154d1.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-773fec8c6a44d2306eeefd4f7357105e772dce74.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-35d5b07410012e06c3511b6a3f72b27c93504d03.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b66bd296d51a95e14a047564c2be4424906bd551.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-c7445a53eb2bf5bbdad415e5244803c9c731e8f1.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-1e73797709c65262898182792f6881ee0a1462b1.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-ba4e3edf07dd2a0dabb87801543177cc4200e984.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-84c1b50d45554740cdd84b28d5bc60bfce9b963d.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-e694f48ad696cbc6a20cacd8f23c49f9cf62408b.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="76351d3022d4a2803789c01046aa0aa4b0d5d134">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-ad691333239b39da4b55f8082230cb44a222b731.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-396823d734aca83bb154499cb98765dbb707717b.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fff37239b1a6a2e5bd9b6bf9af0dd5d3ee52936c">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-0cc9eae6f2fb863ec4ab44912b4ce831392f500b.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-0b86e6ea2ae2272fd8d8ddf6b3194c5531a05125.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-82cf7e11e0d68027a44674c159dcd67b5e2d6b89.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-8474826cccbbfe809587e9ebe0d34a75421aa9c5.jar" />
+    </item>
+    <item
+        jar="/home/gts/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.7/cd78109020f9ec803ef4e652c17ee4615b03e20a/android-async-http-1.4.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.7-bf0902f9363e2b3f98c6dd19feb2da78f9d84bca.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-45f19d74b1f05431f76050f49d4cf8ee0d3d1c98.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-7021a7e5e484b42458b5bf9b5954b7bb6ab3b2ab.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-73e56b4275720a987d7b1de6fd8059c640392f3d.jar" />
+    </item>
+    <item
+        jar="/home/gts/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-49a758cf99a39572f9d25754f7d6a2af70e99409.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-5220c21acc72d00339237d6ce92e7e483702c385.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-2a2a574a0dcfe024a24bd02d66bd8b248084e0ec.jar" />
+    </item>
+    <item
+        jar="/home/gts/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-401f2f29f4bae171901ff0681e818f07bb2c6f3a.jar" />
+    </item>
+    <item
+        jar="/home/gts/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.82.0/9a7b39bbbbd122951b33f283a0017530aa931355/realm-android-0.82.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9a7b39bbbbd122951b33f283a0017530aa931355">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/realm-android-0.82.0-37a6023330d5c12dcd75db100899b3165a03700b.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-fb6836b58e2c5b43a8187f17e027960bf6ab98fc.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-75bb04a6145a512a34b9add3e44331527fd3f9e6.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-fe0bc1b7b03eba5bea08996cf9438728e85cda68.jar" />
+    </item>
+    <item
+        jar="/home/gts/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/gts/Project/app/build/intermediates/pre-dexed/debug/classes-1fb847f4b09f6af9864904a7daeb6abf52fe493d.jar" />
+    </item>
+
+</items>
